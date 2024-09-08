@@ -93,11 +93,12 @@ header #branding{
 
  /* showcase */
  #showcase{
-    min-height: 680px;
+    min-height: 695px;
     background-position: center;
     background-size: cover;
+    background-image: url(./img/joviquest\ logo.jpg);
     text-align: left;
-    color:#ffffff ;
+    color: black;
     background-color: rgb(53, 48, 48);
     padding-top: 0;
     font-size: larger;
